@@ -21,6 +21,7 @@
 [![Stepik Certified](https://img.shields.io/badge/Stepik-"Поколение_Python"_продвинутый-4CAF50?style=for-the-badge&logo=stepik&logoColor=white&labelColor=555555)](https://stepik.org/cert/3288261)
 [![Stepik Certified](https://img.shields.io/badge/Stepik-ООП_Python_Часть_1-4CAF50?style=for-the-badge&logo=stepik&logoColor=white&labelColor=555555)](https://stepik.org/cert/3296310)
 [![Stepik Certified](https://img.shields.io/badge/Stepik-ООП_Python_Часть_2-4CAF50?style=for-the-badge&logo=stepik&logoColor=white&labelColor=555555)](https://stepik.org/cert/3307754)
+[![Stepik Certified](https://img.shields.io/badge/Stepik-Data_Science_на_Python-4CAF50?style=for-the-badge&logo=stepik&logoColor=white&labelColor=555555)](https://stepik.org/cert/3313607)
 
 #### OpenCV University
 [![OpenCV](https://img.shields.io/badge/OpenCV-Certified-5C3EE8?logo=opencv&logoColor=white&style=flat-square)](https://courses.opencv.org/certificates/c8937b62b7b14ffb8a54597db8636bd6)
